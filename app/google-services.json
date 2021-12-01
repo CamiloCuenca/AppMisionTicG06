@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1003883380110",
+    "project_id": "appejesm05p2",
+    "storage_bucket": "appejesm05p2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003883380110:android:51a870e37b2394f25af8df",
+        "android_client_info": {
+          "package_name": "com.example.myejemsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003883380110-9daha1rjgkhq630bunr6ptot6v5kj7i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB11xIxAYwY7QCEdnTmBJRtY5NixCX4iyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003883380110-9daha1rjgkhq630bunr6ptot6v5kj7i3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
